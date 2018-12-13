@@ -18,7 +18,9 @@ import service.UserService;
 @Controller
 @RequestMapping("/")
 public class UserController {
-	
+
+	// laba diena
+
 	@Autowired
 	public UserService userService;
 	
